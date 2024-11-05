@@ -11,3 +11,7 @@ I actually work privately, so I won't publish much on this account except for sc
 ## 🌟 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+ <img width="1000" src="snake.svg" alt="snake"/>
+</p>
