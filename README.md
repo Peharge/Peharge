@@ -29,6 +29,7 @@ My only big public project is Woyzy<br><br>
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3CA9E7?style=for-the-badge&logo=plotly&logoColor=white)
 ![Google JAX](https://img.shields.io/badge/Google%20JAX-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ## 🛠️ Tools
