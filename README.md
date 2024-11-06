@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" src="peharge-banner1.png" alt="peharge"/>
+ <img width="1000" src="peharge-banner2.png" alt="peharge"/>
 </p>
 
 I actually work privately, so I won't publish much on this account except for school projects.<br>
