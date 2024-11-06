@@ -1,4 +1,6 @@
-# Hello, I'm Peharge 👋
+<p align="center">
+ <img width="1000" src="peharge-banner1" alt="snake"/>
+</p>
 
 I actually work privately, so I won't publish much on this account except for school projects.<br>
 My only big public project is Woyzy<br><br>
