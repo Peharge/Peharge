@@ -1,10 +1,10 @@
 <p align="center">
- <img width="1000" src="i./readme-img/peharge-logo-new3.png" alt="peharge"/>
+ <img width="600" src="./readme-img/peharge-logo-new3.png" alt="peharge"/>
 </p>
 
-<p align="center">
- <img width="1000" src="peharge-banner2.png" alt="peharge"/>
-</p>
+# <strong>**Peharge**</strong>
+
+> <strong>Intelligenz neu definiert.</strong>
 
 I actually work privately, so I won't publish much on this account except for school projects.<br>
 My only big public project is Woyzy<br><br>
