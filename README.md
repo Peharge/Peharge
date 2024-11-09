@@ -4,7 +4,7 @@
 
 # **_Peharge_**
 
-> <strong>Intelligenz neu definiert.</strong>
+> <strong>The key to artificial intelligence has always been the representation.</strong>
 
 I actually work privately, so I won't publish much on this account except for school projects.<br>
 My only big public project is Woyzy<br><br>
