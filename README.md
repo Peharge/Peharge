@@ -1,4 +1,8 @@
 <p align="center">
+ <img width="1000" src="i./readme-img/peharge-logo-new4.png" alt="peharge"/>
+</p>
+
+<p align="center">
  <img width="1000" src="peharge-banner2.png" alt="peharge"/>
 </p>
 
