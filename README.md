@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" src="i./readme-img/peharge-logo-new4.png" alt="peharge"/>
+ <img width="1000" src="i./readme-img/peharge-logo-new3.png" alt="peharge"/>
 </p>
 
 <p align="center">
