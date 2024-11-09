@@ -2,7 +2,9 @@
  <img width="600" src="./readme-img/peharge-logo-new3.png" alt="peharge"/>
 </p>
 
-# <strong>**Peharge**</strong>
+<p align="left">
+ <img width="300" src="./peharge-banner4.png" alt="peharge"/>
+</p>
 
 > <strong>Intelligenz neu definiert.</strong>
 
