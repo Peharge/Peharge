@@ -7,7 +7,8 @@
 > <strong>The key to artificial intelligence has always been the representation.</strong>
 
 I actually work privately, so I won't publish much on this account except for school projects.<br>
-My only big public project is Woyzy<br><br>
+My only big public project is [Woyzy](https://github.com/Peharge/Woyzy).<br>
+But since November 1, 2024, I’ve decided to take this account more seriously and will be publishing more content going forward!<br><br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peharge&show_icons=true&theme=radical)
 
