@@ -55,11 +55,9 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 ![Google JAX](https://img.shields.io/badge/Google%20JAX-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![QT](https://img.shields.io/badge/Qt-green?style=for-the-badge&logo=qt&logoColor=white)
-![]()
 
 ## 🛠️ Tools
 
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -68,12 +66,11 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 ![DataSpell](https://img.shields.io/badge/DataSpell-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![VI](https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white)
-![]()
-
 
 <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
