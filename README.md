@@ -11,9 +11,7 @@ My only big public project is [Woyzy](https://github.com/Peharge/Woyzy) and [MAV
 But since November 1, 2024, I’ve decided to take this account more seriously and will be publishing more content going forward!<br><br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peharge&show_icons=true&theme=radical)
-
-## 🛠️ Technologies and Tools
-
+![GitHub Stats](https://streak-stats.demolab.com/?user=Peharge&theme=radical)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&theme=radical&layout=compact)
 
 ## 🌟 GitHub Trophies
