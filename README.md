@@ -10,15 +10,12 @@ I actually work privately, so I won't publish much on this account except for sc
 My only big public project is [Woyzy](https://github.com/Peharge/Woyzy) and [MAVIS](https://github.com/Peharge/MAVIS).<br>
 But since November 1, 2024, I’ve decided to take this account more seriously and will be publishing more content going forward!<br><br>
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://github-readme-stats.vercel.app/api?username=Peharge&show_icons=true&theme=radical" width="350px" />
   <img src="https://streak-stats.demolab.com/?user=Peharge&theme=radical" width="370px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&theme=radical&layout=compact" width="350px" /><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical"/>
 </div>
-
-## 🌟 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🖥️ OS
 
