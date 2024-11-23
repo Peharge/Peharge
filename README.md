@@ -70,6 +70,8 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white)
 
+<br>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Peharge&theme=github-compact)
 
 <p align="center">
