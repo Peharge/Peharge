@@ -73,7 +73,3 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 <br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Peharge&theme=github-compact)
-
-<p align="center">
- <img width="1000" src="snake.svg" alt="snake"/>
-</p>
