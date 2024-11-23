@@ -14,7 +14,7 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
   <img src="https://github-readme-stats.vercel.app/api?username=Peharge&show_icons=true&theme=radical" width="350px" />
   <img src="https://streak-stats.demolab.com/?user=Peharge&theme=radical" width="370px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&theme=radical&layout=compact" width="350px" /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical&no-top-languages=false&rank=top-visited"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical"/>
 </div>
 
 ## 🖥️ OS
