@@ -7,7 +7,7 @@
 > <strong>The key to artificial intelligence has always been the representation.</strong>
 
 I actually work privately, so I won't publish much on this account except for school projects.<br>
-My only big public project is [Woyzy](https://github.com/Peharge/Woyzy) and [MAVIS](https://github.com/Peharge/MAVIS).<br>
+My only big public projects are [Woyzy](https://github.com/Peharge/Woyzy) and [MAVIS](https://github.com/Peharge/MAVIS).<br>
 But since November 1, 2024, I’ve decided to take this account more seriously and will be publishing more content going forward!<br><br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
