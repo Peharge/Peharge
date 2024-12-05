@@ -18,7 +18,9 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" />
+  <a href="https://github.com/Peharge/MAVIS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" />
+  </a>
 </div>
 
 ## 🖥️ OS
