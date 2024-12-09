@@ -7,13 +7,13 @@ on:
 
 jobs:
   run-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Setzt eine stabile Ubuntu-Version
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v1  # Verwende hier v1 statt v2
+        uses: anuraghazra/github-readme-stats  # Keine Versionsnummer, nutzt die neueste Version
         with:
           username: your-github-username  # Setze deinen GitHub-Benutzernamen hier ein
           hide: "prs, issues"  # Beispiel: Verstecke Pull Requests und Issues
