@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-22.04  # Setzt eine stabile Ubuntu-Version
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout
 
       - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats
