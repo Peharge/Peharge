@@ -11,10 +11,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Run metrics plugin for public repository
+      - name: Run metrics plugin (without token)
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          no-token: true  # Hier könnte ein Parameter hinzugefügt werden, der das Token umgehen soll (bitte überprüfen, ob der Parameter existiert)
