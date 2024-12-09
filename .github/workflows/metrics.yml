@@ -16,7 +16,7 @@ jobs:
 
       # Schritt 2: GitHub-Statistiken generieren
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@v3  # Verwende die neueste Version des GitHub-Stats-Aktions-Plugins
+        uses: anuraghazra/github-readme-stats@v2  # Verwende die Version v2 der GitHub-Stats-Action
         with:
           username: Peharge  # GitHub-Benutzername (hier: Peharge)
           hide: "prs, issues"  # Verstecke Pull Requests und Issues
