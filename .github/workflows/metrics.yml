@@ -13,9 +13,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats  # Keine Version angegeben, nutzt die neueste Version
+        uses: anuraghazra/github-readme-stats
         with:
-          username: your-github-username  # Setze deinen GitHub-Benutzernamen hier ein
+          username: Peharge  # Setze deinen GitHub-Benutzernamen hier ein
           hide: "prs, issues"  # Beispiel: Verstecke Pull Requests und Issues
           show_icons: "true"
           theme: "radical"
