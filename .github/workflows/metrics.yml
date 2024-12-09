@@ -6,16 +6,19 @@ on:
       - main  # Der Workflow wird bei jedem Push auf den main-Branch ausgeführt.
 
 jobs:
-  run-metrics:
-    runs-on: ubuntu-22.04  # Setzt eine stabile Ubuntu-Version
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout
+  generate-metrics:
+    runs-on: ubuntu-22.04  # Verwende eine stabile Ubuntu-Version für die Ausführung
 
+    steps:
+      # Schritt 1: Checkout des Repositories
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Nutze die neueste Version des Checkouts
+
+      # Schritt 2: GitHub-Statistiken generieren
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats
+        uses: anuraghazra/github-readme-stats@v3  # Verwende die neueste Version des GitHub-Stats-Aktions-Plugins
         with:
-          username: Peharge  # Setze deinen GitHub-Benutzernamen hier ein
-          hide: "prs, issues"  # Beispiel: Verstecke Pull Requests und Issues
-          show_icons: "true"
-          theme: "radical"
+          username: Peharge  # GitHub-Benutzername (hier: Peharge)
+          hide: "prs, issues"  # Verstecke Pull Requests und Issues
+          show_icons: "true"  # Icons anzeigen
+          theme: "radical"  # Wähle das 'radical'-Theme
