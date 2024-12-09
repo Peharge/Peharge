@@ -1,7 +1,23 @@
 name: Full-year-calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+
+on:
+  push:
+    branches:
+      - main  # Der Workflow wird bei jedem Push auf den main-Branch ausgeführt.
+  pull_request:
+    branches:
+      - main  # Der Workflow wird auch bei Pull Requests auf den main-Branch ausgeführt.
+
+jobs:
+  run-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Run metrics plugin
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
