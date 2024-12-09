@@ -1,0 +1,6 @@
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  base: ""
+  plugin_isocalendar: yes
