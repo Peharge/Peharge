@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *" # 18:00 UTC (03:00 JST)
   workflow_dispatch:
 
 jobs:
@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: "<DEIN_GITHUB_BENUTZERNAME>"  # Ändere dies zu deinem GitHub-Benutzernamen
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  # Stelle sicher, dass du dein eigenes Token verwendest
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
