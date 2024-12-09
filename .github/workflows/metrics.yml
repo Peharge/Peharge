@@ -11,11 +11,12 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Run metrics plugin (without token)
-        uses: lowlighter/metrics@latest
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@v2
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          no-token: true  # Hier könnte ein Parameter hinzugefügt werden, der das Token umgehen soll (bitte überprüfen, ob der Parameter existiert)
+          # Hier sind ein paar Beispiele für Eingaben, die du konfigurieren kannst
+          username: your-github-username  # Setze deinen GitHub-Benutzernamen hier ein
+          hide: "prs, issues"  # Beispiel: Verstecke Pull Requests und Issues
+          show_icons: "true"
+          theme: "radical"
