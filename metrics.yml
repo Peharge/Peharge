@@ -1,0 +1,20 @@
+name: Generate Full-Year Commit Calendar
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0" # Wöchentlich generieren (optional)
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
