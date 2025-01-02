@@ -57,6 +57,7 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 ![Plotly](https://img.shields.io/badge/Plotly-3CA9E7?style=for-the-badge&logo=plotly&logoColor=white)
 ![Google JAX](https://img.shields.io/badge/Google%20JAX-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![QT](https://img.shields.io/badge/Qt-green?style=for-the-badge&logo=qt&logoColor=white)
 
 ## 🛠️ Tools
