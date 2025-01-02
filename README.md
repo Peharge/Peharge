@@ -6,9 +6,10 @@
 
 > <strong>The key to artificial intelligence has always been the representation.</strong>
 
-I actually work privately, so I won't publish much on this account except for school projects.<br>
-My only big public project is [MAVIS](https://github.com/Peharge/MAVIS).<br>
-But since November 1, 2024, I’ve decided to take this account more seriously and will be publishing more content going forward!<br><br>
+I am 17 years old and work mainly on private projects. But since November 2024 I have decided to use this account more seriously - so it is worth giving me a subscription. The projects I publish here serve both my learning and the good of humanity.
+My main project so far is [MAVIS](https://github.com/Peharge/MAVIS).<br>
+In the future I will share more content that helps others and contributes to the transfer of knowledge. Stay tuned for upcoming projects!<br>
+In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br><br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://github-readme-stats.vercel.app/api?username=Peharge&show_icons=true&theme=radical" width="350px" />
@@ -37,9 +38,11 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Less Used Languages:
+### Languages I still want to learn
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FF6F00?style=for-the-badge&logo=rust&logoColor=white)
 
 ### The compulsory obligations:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
