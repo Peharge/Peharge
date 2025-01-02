@@ -60,7 +60,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3CA9E7?style=for-the-badge&logo=plotly&logoColor=white)
-![Google JAX](https://img.shields.io/badge/Google%20JAX-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![MONAI](https://img.shields.io/badge/MONAI-blue?style=for-the-badge&logo=monai&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![QT](https://img.shields.io/badge/Qt-green?style=for-the-badge&logo=qt&logoColor=white)
