@@ -28,6 +28,8 @@ But since November 1, 2024, I’ve decided to take this account more seriously a
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Debain](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+![KaliLinux](https://img.shields.io/badge/Kali-000080?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 ## 👩‍💻 Programming Languages
 
