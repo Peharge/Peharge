@@ -80,7 +80,3 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ![VI](https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white)
-
-<br>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Peharge&theme=github-compact)
