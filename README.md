@@ -21,15 +21,15 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ## Repositories
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px"/>
 
 <details>
   <summary>More</summary>
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Chatpp&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-c-plus-plus&theme=radical" width="350px"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-java&theme=radical" width="350px"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-python&theme=radical" width="350px"/>
