@@ -108,12 +108,12 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 </p>
 
 <p align="left">
-    <img src="https://img.shields.io/badge/Keras-242938?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" style="border-radius: 5px; width: 100px; height:30px">
-    <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="border-radius: 5px; width: 100px; height:30px">
-    <img src="https://img.shields.io/badge/pandas-242938?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="border-radius: 5px; width: 100px; height:30px">
-    <img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="border-radius: 5px; width: 100px; height:30px">
-    <img src="https://img.shields.io/badge/Plotly-242938?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="border-radius: 5px; width: 100px; height:30px">
-    <img src="https://img.shields.io/badge/MONAI-242938?style=for-the-badge&logo=monai&logoColor=white" alt="MONAI" style="border-radius: 5px; width: 75px; height:30px">
+    <img src="https://img.shields.io/badge/Keras-242938?style=for-the-badge&logo=keras" alt="Keras" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy" alt="NumPy" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/pandas-242938?style=for-the-badge&logo=pandas" alt="pandas" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge&logo=matplotlib" alt="Matplotlib" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/Plotly-242938?style=for-the-badge&logo=plotly" alt="Plotly" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/MONAI-242938?style=for-the-badge&logo=monai" alt="MONAI" style="border-radius: 5px; width: 75px; height:30px">
 </p>
 
 ## 🛠️ Tools
