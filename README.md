@@ -24,6 +24,22 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
   </a>
 </div>
 
+<details>
+  <summary>More</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Chatpp&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-c-plus-plus&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-java&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-python&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-julia&theme=radical" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=IQ&theme=radical" width="350px"/>
+
+</details>
+
 ## 🖥️ OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -80,3 +96,10 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ![VI](https://img.shields.io/badge/Vim-3b883b?style=for-the-badge&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D6?style=for-the-badge&logo=powershell&logoColor=white)
+
+<details>
+  <summary>More</summary>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peharge&theme=radical" width="600px" />
+
+</details>
