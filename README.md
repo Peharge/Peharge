@@ -20,7 +20,8 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ## Repositories
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
+<details>
+  <summary>More</summary>
     <a href="https://github.com/Peharge/MAVIS" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" />
     </a>
@@ -33,10 +34,6 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
     <a href="https://github.com/Peharge/Xcpp-II" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px" />
     </a>
-</div>
-
-<details>
-  <summary>More</summary>
   <a href="https://github.com/Peharge/Woyzy" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px" />
   </a>
