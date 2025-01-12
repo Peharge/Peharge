@@ -18,11 +18,9 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
   <img src="https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical"/>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://github.com/Peharge/MAVIS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px"/>
-  </a>
-</div>
+## Repositories
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px"/>
 
 <details>
   <summary>More</summary>
