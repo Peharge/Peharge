@@ -133,6 +133,6 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gcp,git,git,github,gitlab,stackoverflow,gmail,linkedin" />
+    <img src="https://skillicons.dev/icons?i=discord,gcp,git,github,gitlab,stackoverflow,gmail,linkedin" />
   </a>
 </p>
