@@ -21,23 +21,43 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ## Repositories
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px"/>
+    <a href="https://github.com/Peharge/MAVIS" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" />
+    </a>
+    <a href="https://github.com/Peharge/SIMON" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px" />
+    </a>
+    <a href="https://github.com/Peharge/Solution-II" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px" />
+    </a>
+    <a href="https://github.com/Peharge/Xcpp-II" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px" />
+    </a>
 </div>
 
 <details>
   <summary>More</summary>
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Chatpp&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-c-plus-plus&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-java&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-python&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-julia&theme=radical" width="350px"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=IQ&theme=radical" width="350px"/>
-
+  <a href="https://github.com/Peharge/Woyzy" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px" />
+  </a>
+  <a href="https://github.com/Peharge/Chatpp" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Chatpp&theme=radical" width="350px" />
+  </a>
+  <a href="https://github.com/Peharge/learn-c-plus-plus" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-c-plus-plus&theme=radical" width="350px" />
+  </a>
+  <a href="https://github.com/Peharge/learn-java" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-java&theme=radical" width="350px" />
+  </a>
+  <a href="https://github.com/Peharge/learn-python" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-python&theme=radical" width="350px" />
+  </a>
+  <a href="https://github.com/Peharge/learn-julia" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-julia&theme=radical" width="350px" />
+  </a>
+  <a href="https://github.com/Peharge/IQ" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=IQ&theme=radical" width="350px" />
+  </a>
 </details>
 
 ## 🖥️ OS
