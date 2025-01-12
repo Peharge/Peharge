@@ -21,10 +21,10 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ## Repositories
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" style="height: 200px; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" style="height: 200px; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" style="height: 200px; object-fit: contain;" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" style="height: 200px; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" style="width: 350px; height: 100px; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" style="width: 350px; height: 100px; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" style="width: 350px; height: 100px; object-fit: contain;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" style="width: 350px; height: 100px; object-fit: contain;" />
 </div>
 
 <details>
