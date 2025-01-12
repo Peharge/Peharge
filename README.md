@@ -18,6 +18,13 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
   <img src="https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical"/>
 </div>
 
+<details>
+  <summary>More</summary>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peharge&theme=radical" width="600px" />
+
+</details>
+
 ## Repositories
 
 <details>
@@ -129,10 +136,3 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
     <img src="https://skillicons.dev/icons?i=discord,gcp,git,git,github,gitlab,stackoverflow,gmail,linkedin" />
   </a>
 </p>
-<details>
-  <summary>More</summary>
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peharge&theme=radical" width="600px" />
-
-</details>
-
