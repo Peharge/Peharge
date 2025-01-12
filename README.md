@@ -104,30 +104,32 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-    <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/Plotly-3CA9E7?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-    <img src="https://img.shields.io/badge/MONAI-blue?style=for-the-badge&logo=monai&logoColor=white" alt="MONAI">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Plotly-3CA9E7?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/MONAI-blue?style=for-the-badge&logo=monai&logoColor=white" alt="MONAI" style="border-radius: 15px;">
 </p>
 
 ## 🛠️ Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,idea,clion,webstorm,anaconda,emacs" />
+    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,idea,clion,webstorm,anaconda" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,bash,powershell,blender,latex,matlab,neovim,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=emacs,vim,bash,powershell,latex,matlab,neovim" />
   </a>
 </p>
 
+## 🛠️ APPs
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gcp,git,blender,git,github,gitlab,gmail,linkedin,unreal" />
+    <img src="https://skillicons.dev/icons?i=discord,gcp,git,blender,git,github,gitlab,stackoverflow,gmail,linkedin,unreal" />
   </a>
 </p>
 <details>
