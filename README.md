@@ -104,12 +104,12 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" style="border-radius: 15px;">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="border-radius: 15px;">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="border-radius: 15px;">
-    <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="border-radius: 15px;">
-    <img src="https://img.shields.io/badge/Plotly-3CA9E7?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="border-radius: 15px;">
-    <img src="https://img.shields.io/badge/MONAI-blue?style=for-the-badge&logo=monai&logoColor=white" alt="MONAI" style="border-radius: 15px;">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/Plotly-3CA9E7?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="border-radius: 5px; width: 100px; height:30px">
+    <img src="https://img.shields.io/badge/MONAI-blue?style=for-the-badge&logo=monai&logoColor=white" alt="MONAI" style="border-radius: 5px; width: 75px; height:30px">
 </p>
 
 ## 🛠️ Tools
