@@ -72,7 +72,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ## 👩‍💻 Programming Languages
 
 ### Main Languages:
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp" />
   </a>
@@ -80,7 +80,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ### Languages I still want to learn
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,julia,java,rust" />
   </a>
@@ -88,7 +88,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ### The compulsory obligations:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
@@ -97,13 +97,13 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ## 📚 Frameworks and Libraries
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flask,django,qt" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" style="border-radius: 5px; width: 100px; height:30px">
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="border-radius: 5px; width: 100px; height:30px">
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="border-radius: 5px; width: 100px; height:30px">
@@ -114,12 +114,12 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ## 🛠️ Tools
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,idea,clion,webstorm,anaconda" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=emacs,vim,bash,powershell,latex,matlab,neovim,blender,unreal" />
   </a>
@@ -127,7 +127,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ## 🛠️ APPs
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=discord,gcp,git,git,github,gitlab,stackoverflow,gmail,linkedin" />
   </a>
