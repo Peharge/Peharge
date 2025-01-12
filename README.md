@@ -62,7 +62,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ## 🖥️ OS
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali" />
   </a>
