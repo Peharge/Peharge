@@ -82,7 +82,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
   </a>
 </p>
 
-### Languages I still want to learn
+### Languages I still want to learn:
 
 <p align="left">
   <a href="https://skillicons.dev">
