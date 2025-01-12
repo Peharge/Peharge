@@ -20,9 +20,11 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 ## Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px"/>
+</div>
 
 <details>
   <summary>More</summary>
