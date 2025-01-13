@@ -120,12 +120,12 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,vscode,anaconda" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,vscode,anaconda,emacs" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=emacs,vim,neovim,bash,powershell,latex,matlab,blender,unreal" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,bash,powershell,latex,matlab,blender,unreal" />
   </a>
 </p>
 
