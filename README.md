@@ -125,7 +125,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=emacs,vim,bash,powershell,latex,matlab,neovim,blender,unreal" />
+    <img src="https://skillicons.dev/icons?i=emacs,vim,neovim,bash,powershell,latex,matlab,blender,unreal" />
   </a>
 </p>
 
