@@ -14,12 +14,13 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center; height: 100vh;">
   <img src="https://github-readme-stats.vercel.app/api?username=Peharge&show_icons=true&theme=radical" width="350px"/>
   <img src="https://streak-stats.demolab.com/?user=Peharge&theme=radical" width="370px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=10&layout=compact&theme=radical" alt="Top Languages" width="350px"/><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical"/>
 </div>
 
 <details>
   <summary>More</summary>
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=10&layout=compact&theme=radical" alt="Top Languages" width="350px"/><br>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peharge&theme=radical" width="600px" />
 
