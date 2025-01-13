@@ -18,50 +18,55 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 </div>
 
 <details>
-  <summary>More</summary>
+  <summary>Most used language</summary>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=10&theme=radical" alt="Top Languages"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=10&theme=radical" alt="Top Languages"/><
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peharge&theme=redical"/>
+</details>
+
+<details>
+  <summary>Commits </summary>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peharge&theme=redical" alt="Commits"/>
 
 </details>
 
 ## Repositories
 
 <details>
-  <summary>More</summary>
+  <summary>Repositories</summary>
     <a href="https://github.com/Peharge/MAVIS" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" alt="Repositories"/>
     </a>
     <a href="https://github.com/Peharge/SIMON" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px" alt="Repositories"/>
     </a>
     <a href="https://github.com/Peharge/Solution-II" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px" alt="Repositories"/>
     </a>
     <a href="https://github.com/Peharge/Xcpp-II" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px" alt="Repositories"/>
     </a>
   <a href="https://github.com/Peharge/Woyzy" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/Chatpp" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Chatpp&theme=radical" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Chatpp&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/learn-c-plus-plus" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-c-plus-plus&theme=radical" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-c-plus-plus&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/learn-java" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-java&theme=radical" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-java&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/learn-python" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-python&theme=radical" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-python&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/learn-julia" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-julia&theme=radical" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=learn-julia&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/IQ" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=IQ&theme=radical" width="350px" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=IQ&theme=radical" width="350px" alt="Repositories"/>
   </a>
 </details>
 
@@ -69,7 +74,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali" alt="OS"/>
   </a>
 </p>
 
@@ -79,7 +84,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 ### Main Languages:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,cpp" alt="Languages"/>
   </a>
 </p>
 
@@ -87,7 +92,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,julia,java,rust" />
+    <img src="https://skillicons.dev/icons?i=c,julia,java,rust" alt="Languages"/>
   </a>
 </p>
 
@@ -95,7 +100,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" alt="Languages"/>
   </a>
 </p>
 
@@ -104,7 +109,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flask,django,qt" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,flask,django,qt" alt="Frameworks"/>
   </a>
 </p>
 
@@ -121,12 +126,12 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,vscode,anaconda,emacs" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,vscode,anaconda,emacs" alt="Tools"/>
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,bash,powershell,latex,matlab,blender,unreal" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,bash,powershell,latex,matlab,blender,unreal" alt="APPs"/>
   </a>
 </p>
 
@@ -134,6 +139,6 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gcp,gmail,git,github,gitlab,stackoverflow,linkedin" />
+    <img src="https://skillicons.dev/icons?i=discord,gcp,gmail,git,github,gitlab,stackoverflow,linkedin" alt="APPs"/>
   </a>
 </p>
