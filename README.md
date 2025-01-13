@@ -120,7 +120,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,vscode,idea,clion,webstorm,anaconda" />
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,vscode,anaconda" />
   </a>
 </p>
 <p align="left">
