@@ -20,9 +20,9 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 <details>
   <summary>More</summary>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=10&layout=compact&theme=radical" alt="Top Languages" width="350px"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=10&theme=radical" alt="Top Languages"/><br>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Peharge&theme=radical" width="600px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peharge&theme=redical"/>
 
 </details>
 
