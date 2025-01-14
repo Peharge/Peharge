@@ -100,7 +100,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,latex" alt="Languages"/>
   </a>
 </p>
 
@@ -126,12 +126,12 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,vscode,anaconda,emacs,vim" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,vscode,anaconda,emacs" alt="Tools"/>
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,bash,powershell,latex,matlab,blender,unreal" alt="APPs"/>
+    <img src="https://skillicons.dev/icons?i=vim,neovim,bash,powershell,git,matlab,blender,unreal" alt="APPs"/>
   </a>
 </p>
 
