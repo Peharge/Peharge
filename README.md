@@ -31,8 +31,6 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 </details>
 
-## Repositories
-
 <details>
   <summary>Repositories</summary>
     <a href="https://github.com/Peharge/MAVIS" target="_blank">
@@ -69,6 +67,9 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=IQ&theme=radical" width="350px" alt="Repositories"/>
   </a>
 </details>
+
+<details>
+  <summary>More Information</summary>
 
 ## 🖥️ OS
 
@@ -142,3 +143,5 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
     <img src="https://skillicons.dev/icons?i=discord,gcp,gmail,git,github,gitlab,stackoverflow,linkedin" alt="APPs"/>
   </a>
 </p>
+
+</details>
