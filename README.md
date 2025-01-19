@@ -33,18 +33,19 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <details>
   <summary>Repositories</summary>
-    <a href="https://github.com/Peharge/MAVIS" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" alt="Repositories"/>
-    </a>
-    <a href="https://github.com/Peharge/SIMON" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px" alt="Repositories"/>
-    </a>
-    <a href="https://github.com/Peharge/Solution-II" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px" alt="Repositories"/>
-    </a>
-    <a href="https://github.com/Peharge/Xcpp-II" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px" alt="Repositories"/>
-    </a>
+  ⚠️ Stars are not up to date
+  <a href="https://github.com/Peharge/MAVIS" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Peharge/SIMON" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Peharge/Solution-II" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Peharge/Xcpp-II" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Xcpp-II&theme=radical" width="350px" alt="Repositories"/>
+  </a>
   <a href="https://github.com/Peharge/Woyzy" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Woyzy&theme=radical" width="350px" alt="Repositories"/>
   </a>
