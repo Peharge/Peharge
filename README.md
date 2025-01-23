@@ -1,5 +1,5 @@
 <p align="center">
- <img width="800" src="./peharge-banner.png" alt="peharge"/>
+ <img width="800" src="./peharge-banner.svg" alt="peharge"/>
 </p>
 
 # **_Peharge_**
