@@ -20,7 +20,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 <details>
   <summary>Most used language</summary>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=10&theme=radical&layout=compact&hide_border=true&hide_title=false&card_width=450" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peharge&langs_count=100&theme=radical&layout=compact&hide_border=true&hide_title=false&card_width=500" alt="Top Languages"/>
 
 </details>
 
