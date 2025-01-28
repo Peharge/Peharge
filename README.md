@@ -17,6 +17,8 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
   <img src="https://github-profile-trophy.vercel.app/?username=Peharge&theme=radical"/>
 </div>
 
+<br>
+
 <details>
   <summary>Most used language</summary>
  
