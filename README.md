@@ -78,7 +78,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali,arch" alt="OS"/>
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch,kali" alt="OS"/>
   </a>
 </p>
 
