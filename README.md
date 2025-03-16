@@ -35,7 +35,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <details>
   <summary>Repositories</summary>
-  <br>⚠️ Stars are not up to date<br><br>
+  <br>⚠️ Stars are not up to date!!!<br><br>
   <a href="https://github.com/Peharge/MAVIS" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" alt="Repositories"/>
   </a>
@@ -78,7 +78,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,debian,kali" alt="OS"/>
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch,kali" alt="OS"/>
   </a>
 </p>
 
