@@ -4,7 +4,6 @@
 
 # **_Peharge_**
 
-> [!TIP]
 > <strong>The key to artificial intelligence has always been the representation.</strong>
 
 I am 17 years old and work mainly on private projects. But since November 2024 I have decided to use this account more seriously - so it is worth giving me a subscription. The projects I publish here serve both my learning and the good of humanity.
