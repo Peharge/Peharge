@@ -1,5 +1,5 @@
 <p align="center">
-  <iframe src="./peharge-banner.html" width="800" height="400"></iframe>
+ <img width="800" src="./peharge-banner.svg" alt="peharge"/>
 </p>
 
 # **_Peharge_**
