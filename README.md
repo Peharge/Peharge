@@ -35,12 +35,15 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 
 <details>
   <summary>Repositories</summary>
-  <br>⚠️ Stars are not up to date!!!<br><br>
+
   <a href="https://github.com/Peharge/MAVIS" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=MAVIS&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/SIMON" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Peharge/p-terminal" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=p-terminal&theme=radical" width="350px" alt="Repositories"/>
   </a>
   <a href="https://github.com/Peharge/Solution-II" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px" alt="Repositories"/>
@@ -74,7 +77,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 <details>
   <summary>More Information</summary>
 
-## 🖥️ OS
+## OS
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -83,7 +86,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 </p>
 
 
-## 👩‍💻 Programming Languages
+## Programming Languages
 
 ### Main Languages:
 <p align="left">
@@ -109,7 +112,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
 </p>
 
 
-## 📚 Frameworks and Libraries
+## Frameworks and Libraries
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -126,7 +129,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
     <img src="https://img.shields.io/badge/MONAI-242938?style=for-the-badge&logo=monai" alt="MONAI" style="border-radius: 5px; width: 75px; height:30px">
 </p>
 
-## 🛠️ Tools
+## Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -139,7 +142,7 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
   </a>
 </p>
 
-## 🛠️ APPs
+## APPs
 
 <p align="left">
   <a href="https://skillicons.dev">
