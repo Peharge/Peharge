@@ -42,6 +42,9 @@ In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br
   <a href="https://github.com/Peharge/SIMON" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=SIMON&theme=radical" width="350px" alt="Repositories"/>
   </a>
+  <a href="https://github.com/Peharge/p-terminal" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=p-terminal&theme=radical" width="350px" alt="Repositories"/>
+  </a>
   <a href="https://github.com/Peharge/Solution-II" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Peharge&repo=Solution-II&theme=radical" width="350px" alt="Repositories"/>
   </a>
