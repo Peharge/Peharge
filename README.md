@@ -7,7 +7,7 @@
 > <strong>The key to artificial intelligence has always been the representation.</strong>
 
 I am 17 years old and work mainly on private projects. But since November 2024 I have decided to use this account more seriously - so it is worth giving me a subscription. The projects I publish here serve both my learning and the good of humanity.
-My main project so far is [MAVIS](https://github.com/Peharge/MAVIS), [P-Terminal](https://github.com/Peharge/p-terminal) and IQ.<br>
+My main projects so far are [MAVIS](https://github.com/Peharge/MAVIS), [P-Terminal](https://github.com/Peharge/p-terminal) and IQ.<br>
 In the future I will share more content that helps others and contributes to the transfer of knowledge. Stay tuned for upcoming projects!<br>
 In addition, my project partner: [Ginkelmath](https://github.com/ginkelmath).<br><br>
 
